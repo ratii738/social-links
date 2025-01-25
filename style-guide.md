@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Green: hsl(75, 94%, 57%)
+- Green:
 
 - White: hsl(0, 0%, 100%)
 

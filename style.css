@@ -68,7 +68,7 @@ button{
 }
 .frame{
     background-color:  hsl(0, 0%, 12%);
-   width: 45%;
+   width: 300px;
    border-radius: 10px
 
 }
