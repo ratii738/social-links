@@ -1,0 +1,81 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    text-align: center
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    
+
+}
+h2{
+    color: white;
+    font-family:sans-serif;
+}
+h4{
+    color: white;
+    font-family:sans-serif;
+
+}
+p{
+    color: white;
+    font-family:sans-serif;
+
+}
+.London{
+    font-family:sans-serif;
+    color: hsl(75, 94%, 57%);
+
+    
+    
+
+}
+button{
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border: solid hsl(0, 0%, 20%);
+    border-radius: 7px;
+    width: 80%;
+    margin: auto;
+    
+    
+}
+.GitHub{
+    margin-bottom:15px;
+    height:35px
+}
+.Frontend{
+    margin-bottom:15px;
+    height:35px
+}
+.LinkedIn{
+    margin-bottom:15px;
+    height:35px
+}
+.Twitter{
+    margin-bottom:15px;
+    height:35px
+}
+.Instagram{
+    margin-bottom:15px;
+    height:35px
+}
+.frame{
+    background-color:  hsl(0, 0%, 12%);
+   width: 45%;
+   border-radius: 10px
+
+}
+img{
+    height: 70px;
+    border-radius: 100px;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
